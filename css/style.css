@@ -16,10 +16,10 @@ background-color: #3A343F;
 nav{
     margin-top: 0px;
     margin-top: 0px;
-    background: url("C:/Users/uliss/Desktop/QUALYTEAM/Site - Qualyteam - 2/img/nav/bg-NAV.png");
-    
+    background: url("../img/nav/bg-NAV.png");
     height: 40px;
     align-items: center;
+    width: 100%;
 }
 
 .nav{
