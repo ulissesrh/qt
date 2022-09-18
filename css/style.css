@@ -1,0 +1,112 @@
+/* TEMPORÁRIO */ 
+.construcao{
+    margin-top: 40px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+/* FIXO */ 
+/* NAV */ 
+
+body{
+background-color: #3A343F;
+}
+
+nav{
+    margin-top: 0px;
+    margin-top: 0px;
+    background: url("C:/Users/uliss/Desktop/QUALYTEAM/Site - Qualyteam - 2/img/nav/bg-NAV.png");
+    background: url("/img/nav/bg-NAV.png");
+    height: 40px;
+    align-items: center;
+}
+
+.nav{
+    display: flex;
+    padding-left: 50px;
+    padding-top: 8px;
+}
+
+nav a{
+    margin-right: 50px;
+}
+
+
+
+/* HOME */ 
+
+.home{
+    display: flex;
+}
+
+.home-coluna{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+.home-botton{
+    padding-top: 10px;
+}
+
+.home-img{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* TREINAMENTOS */ 
+
+.container-treinamentos{
+    display: flex;
+}
+
+.modulos{
+    padding-left: 50px;
+    padding-top: 20px;
+    flex-direction: column-reverse;
+}
+
+.botton-modulos{
+    margin-bottom: 10px;
+}
+
+.bg-treinamento{
+    width: 100%;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.etapas{
+    padding: 20px 50px 0px 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.conteudo{
+    margin-top: 20px;
+}
