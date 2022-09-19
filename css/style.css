@@ -20,6 +20,7 @@ nav{
     height: 40px;
     align-items: center;
     width: 100%;
+    position: fixed;
 }
 
 .nav{
@@ -41,7 +42,7 @@ nav a{
 }
 
 .home-coluna{
-    padding-top: 30px;
+    padding-top: 50px;
     padding-left: 50px;
 }
 
@@ -53,7 +54,7 @@ nav a{
     display: flex;
     justify-content: center;
     width: 100%;
-    padding-top: 40px;
+    padding-top: 50px;
 }
 
 
@@ -84,8 +85,9 @@ nav a{
 
 .modulos{
     padding-left: 50px;
-    padding-top: 20px;
+    margin-top: 60px;
     flex-direction: column-reverse;
+    position: fixed;
 }
 
 .botton-modulos{
@@ -94,7 +96,7 @@ nav a{
 
 .bg-treinamento{
     width: 100%;
-    padding-top: 20px;
+    margin-top: 60px;
     display: flex;
     justify-content: center;
 }
@@ -102,11 +104,15 @@ nav a{
 
 
 .etapas{
-    padding: 20px 50px 0px 50px;
+    padding: 0px 50px 0px 253px;
+    margin-top: 60px;
     display: flex;
     flex-direction: column;
+    position: fixed;
 }
 
 .conteudo{
-    margin-top: 20px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    padding-left: 582px;
 }
