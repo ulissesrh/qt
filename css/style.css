@@ -1,9 +1,12 @@
 /* TEMPORÁRIO */ 
 .construcao{
-    margin-top: 40px;
     display: flex;
     width: 100%;
     justify-content: center;
+}
+
+.contrucao2{
+    margin-top: 100px;
 }
 
 /* FIXO */ 
